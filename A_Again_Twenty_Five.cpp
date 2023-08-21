@@ -10,5 +10,6 @@ int main()
         cout << 5;
     else
         cout << 25;
+    cout <<"END OF ERA";
     return 0;
 }
